@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adrian%20Simba&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adrian%20Chimbandi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=a8d8ea" width="100%"/>
 
 <!-- BADGES -->
 <br/>
@@ -101,8 +101,8 @@ I'm particularly interested in companies that value **clear communication, self-
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/(https://www.linkedin.com/in/adrian-chimbandi-b7ab4517/))
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achimbandi@gmail.com)
 
 </div>
 
