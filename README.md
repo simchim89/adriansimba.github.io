@@ -106,11 +106,8 @@ I'm especially interested in remote-first teams that value communication, reliab
 
 ## Let's Connect
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-[linkedin.com/in/adrian-chimbandi-b7ab4517](https://www.linkedin.com/in/adrian-chimbandi-b7ab4517/)
-
-![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[achimbandi@gmail.com](mailto:achimbandi@gmail.com)
+- **LinkedIn:** [linkedin.com/in/adrian-chimbandi-b7ab4517](https://www.linkedin.com/in/adrian-chimbandi-b7ab4517/)
+- **Email:** [achimbandi@gmail.com](mailto:achimbandi@gmail.com)
 
 ---
 
