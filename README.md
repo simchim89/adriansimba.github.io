@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adrian%20Chimbandi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=a8d8ea" width="100%"/>
 
-<!-- BADGES -->
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Cape%20Town%2C%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Remote](https://img.shields.io/badge/Work%20Style-Remote%20First-orange?style=for-the-badge&logo=zoom&logoColor=white)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Cape%20Town%2C%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Remote](https://img.shields.io/badge/Work%20Style-Remote%20First-orange?style=for-the-badge&logo=zoom&logoColor=white)]()
 
 <br/>
 
@@ -63,24 +61,24 @@ Hands-on network simulations using Cisco Packet Tracer. Labs will be uploaded he
 
 **Networking & Security**
 
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)
-![DNS/DHCP](https://img.shields.io/badge/DNS%20%7C%20DHCP-grey?style=flat-square)
+[![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)]()
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)]()
+[![DNS/DHCP](https://img.shields.io/badge/DNS%20%7C%20DHCP-grey?style=flat-square)]()
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]()
+[![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)]()
 
 **Transferable Strengths**
 
-![Remote Work](https://img.shields.io/badge/Remote%20Work-10%2B%20Years-success?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-Cross--Cultural-informational?style=flat-square)
-![Support](https://img.shields.io/badge/Customer%20Support-Technical%20%26%20ESL-blueviolet?style=flat-square)
+[![Remote Work](https://img.shields.io/badge/Remote%20Work-10%2B%20Years-success?style=flat-square)]()
+[![Communication](https://img.shields.io/badge/Communication-Cross--Cultural-informational?style=flat-square)]()
+[![Support](https://img.shields.io/badge/Customer%20Support-Technical%20%26%20ESL-blueviolet?style=flat-square)]()
 
 ---
 
