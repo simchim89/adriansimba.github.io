@@ -1,16 +1,8 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adrian%20Chimbandi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=a8d8ea)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adrian%20Chimbandi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=a8d8ea" width="100%"/>
-
-<br/>
-
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-[![Location](https://img.shields.io/badge/Location-Cape%20Town%2C%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()
-[![Remote](https://img.shields.io/badge/Work%20Style-Remote%20First-orange?style=for-the-badge&logo=zoom&logoColor=white)]()
-
-<br/>
-
-</div>
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Cape%20Town%2C%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Remote](https://img.shields.io/badge/Work%20Style-Remote%20First-orange?style=for-the-badge&logo=zoom&logoColor=white)
 
 ---
 
@@ -75,27 +67,27 @@ Hands-on network simulations using Cisco Packet Tracer. Labs will be uploaded he
 
 **Technical Skills**
 
-[![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)]()
-[![DNS/DHCP](https://img.shields.io/badge/DNS%20%7C%20DHCP-grey?style=flat-square)]()
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux%20Fundamentals-FCC624?style=flat-square&logo=linux&logoColor=black)]()
-[![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)]()
-[![Troubleshooting](https://img.shields.io/badge/Network%20Troubleshooting-grey?style=flat-square)]()
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat-square)
+![DNS/DHCP](https://img.shields.io/badge/DNS%20%7C%20DHCP-grey?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20Fundamentals-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Network%20Troubleshooting-grey?style=flat-square)
 
 **Tools & Platforms**
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]()
-[![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python%20Fundamentals-3776AB?style=flat-square&logo=python&logoColor=white)]()
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20Fundamentals-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Professional Strengths**
 
-[![Remote Support](https://img.shields.io/badge/Remote%20Client%20Support-success?style=flat-square)]()
-[![Communication](https://img.shields.io/badge/Cross--Cultural%20Communication-informational?style=flat-square)]()
-[![Documentation](https://img.shields.io/badge/Documentation%20%26%20Writing-blueviolet?style=flat-square)]()
-[![Troubleshooting](https://img.shields.io/badge/Independent%20Troubleshooting-orange?style=flat-square)]()
-[![Timezone](https://img.shields.io/badge/Time--Zone%20Coordination-grey?style=flat-square)]()
+![Remote Support](https://img.shields.io/badge/Remote%20Client%20Support-success?style=flat-square)
+![Communication](https://img.shields.io/badge/Cross--Cultural%20Communication-informational?style=flat-square)
+![Documentation](https://img.shields.io/badge/Documentation%20%26%20Writing-blueviolet?style=flat-square)
+![Troubleshooting](https://img.shields.io/badge/Independent%20Troubleshooting-orange?style=flat-square)
+![Timezone](https://img.shields.io/badge/Time--Zone%20Coordination-grey?style=flat-square)
 
 ---
 
@@ -114,17 +106,12 @@ I'm especially interested in remote-first teams that value communication, reliab
 
 ## Let's Connect
 
-<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[linkedin.com/in/adrian-chimbandi-b7ab4517](https://www.linkedin.com/in/adrian-chimbandi-b7ab4517/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-chimbandi-b7ab4517/)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achimbandi@gmail.com)
-
-</div>
+![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[achimbandi@gmail.com](mailto:achimbandi@gmail.com)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
