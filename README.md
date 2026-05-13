@@ -101,7 +101,7 @@ I'm particularly interested in companies that value **clear communication, self-
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-chimbandi-b7ab4517/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-chimbandi-b7ab4517/)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achimbandi@gmail.com)
 
 </div>
